@@ -1,7 +1,5 @@
+x= open("shapeai1.txt",'a')
  
- x= open("shapeai1.txt",'a')
-
-
 import requests
 #import os
 from datetime import datetime
