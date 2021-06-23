@@ -29,4 +29,4 @@ print ("Current wind speed    :",wind_spd ,'kmph',file=x)
 
 x.close()
 
-#Enter the city name: TRIVANDRUM
+#Enter the city name: KOLLAM
